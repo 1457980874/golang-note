@@ -1,0 +1,55 @@
+9月9日GoWeb程序设计课程笔记(C190603班)
+
+1、搬教室
+2、妄自菲薄
+3、注册github账号、关注yuxinburen
+	地址：www.github.com
+4、git：代码管理工具
+5、聚合数据API：https://www.juhe.cn/
+	① 天气
+	② 彩票
+	③ 新闻头条
+	④ 二维码生成
+	⑤ 笑话大全
+	第一次作业：以小组为单位。
+6、英语单词：
+	framework：框架
+	industry：工业，企业
+	repository：仓库， 代码仓库
+	organization：组织
+	overview：概述，概览
+	owner：拥有者，所有人
+	description：介绍，描述，简介
+	optional：可选
+	launch：火箭发射
+	launcher：桌面应用
+	status：状态
+7、git安装：一直next。运行命令行：git bash
+8、github：注册账号，并create a repository
+9、在自己的电脑上写内容(文件)，使用git上传到仓库
+10、常用命令：
+	pwd：输出当前所在路径
+	ls：列出当前目录下的所有文件和目录
+	mkdir：make directory 创建一个新文件夹
+	cd：进入到某个目录
+11、git命令：
+	① git init：初始化。初始化一个git仓库
+提示信息：Initialized empty Git repository in C:/Users/hongweiyu/firstblood/.git/
+	② git status：查看git仓库状态
+	No commits yet：目前还没提交
+	③ 设置用户名和邮箱（进行全局设置）
+		* git config --global user.email "you@example.com"
+  		* git config --global user.name "Your Name"
+
+作业：
+① 安装git、注册github并关注yuxinburen
+② 练习基础命令和git命令
+③ 分组做聚合数据项目
+
+
+
+
+
+
+
+	

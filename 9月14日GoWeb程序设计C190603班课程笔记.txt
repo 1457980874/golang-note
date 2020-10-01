@@ -1,0 +1,26 @@
+课程：C190603班GoWeb程序设计
+时间：9月14日
+望其项背
+
+1、git安装：
+	git init：初始化一个仓库
+	git status：查看仓库
+	git add file：添加一个文件追踪
+	git add .：将所有的变更内容全部添加追踪
+		tracked：追踪、跟踪
+	git push：推送本地代码到远端仓库
+	git pull：从远端仓库拉取代码(拉取自己仓库)
+	git clone：从远端拉取别人的代码
+2、英语单词：
+	master：大师，主干
+	global：全球的，全局的
+	branch：分支，支流
+	remote：远程的，遥远的
+	enum:枚举
+	enumerating：枚举，数
+	thread：线程
+	process：进程
+	coroutines：协程
+
+
+

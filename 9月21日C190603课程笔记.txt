@@ -1,0 +1,27 @@
+9月21日课程笔记
+
+1、beego框架的安装：
+① go get ..
+② git clone ：放在/src/github.com/
+	第三方：① golang.org ② google.golang.org 均放在src下面
+
+2、第一个beego程序：
+	beego.Run()：运行一个web程序
+	beego.Run(":9090")：自定义指定端口号
+
+3、环境搭建的注意事项：
+ ① 遇到很多包错误：can't find package ...(比如:github.com/golang/protobuf)
+ 解决方法：
+ 	下载golang/protobuf代码
+ 	打开github.com
+ 	使用关键词搜索：golang/protobuf
+ 	进入到对应仓库的主页：
+ 	使用git clone url进行下载
+
+
+4、作业：
+	1、搭建好自己的beego环境
+	2、运行第一个beego.Run程序，得到正常结果
+	3、安装好bee工具
+	4、创建一个初始化项目
+	5、将初始化项目提交到git仓库，查看自己的提交记录
